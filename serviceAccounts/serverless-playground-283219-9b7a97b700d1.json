@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "serverless-playground-283219",
+  "private_key_id": "9b7a97b700d162c0477506792fed28253a74f613",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC2kh9S3DrX6o6u\nHsAHXIgZp0eU/IF1NNOxLWYnlbLczKtSg+EGpXR6oAD/cvK0LzfIJRoqGBr42kXi\nC2omvvorHYW6L6NLBBeH626ZVBKPnE3nxCBGcAo9TPc7Zyrtj4kfTxJNgxXrOvKn\nIlICZ23gcutCd+kkqiEAm+I936QrbQa9VSTAhkUE5FHnptv8xHX3gzH+6gMM72ve\niN7XGXny0DPyDCc0EVgS8fEpixJj+p5dWXKYOzOZVVjgV2egzG1TLU/4tiXO9A+r\n+Iv5ra6nMmnJHeNPKBrPvWAOknNMsot3eJa/xpofkggabC2KwrSK5Rgy+n9FaaWW\naBKQU+llAgMBAAECggEAE8FZAVrSRTXczYuHROSm13vJ2529FmUqePQMJ0FkEs9U\nxH9/tHvn0DMLGJkkGQo483/MRnzIQmBACpcom9uzb0HpC/4GoeHl9++qTo4R2hdU\nOL14rpaGDR8Ma5GczArpkAk61kdWclc1FY+5pwfxFEXrHgyinjSIkKvNfdt6xLX/\nI6fy4QaHLBgtC11RBAzDV+2RXg1CDD1dwozjEpJ+1QGZjFXb4VhHJvU4YIpiYBQz\n2kDfraNYYbiIjUP+17Nz0wrXnrZi25SHl13Be7wTKZ0lkMmkKZoFjwdUUGysi8DV\nyfyZK4tkO+xpeEG4B9C0SFZi9C3qXc7cg5EwDrHR0QKBgQDemMdrhuJa2up7ZnAn\nGieWxSV1MGGffFMpH9sJocJ6Q/7ZDPLcgMjmAhRWw3DW8OmDKmdh8gwJXnYT56aA\n3QvTSxrAzDUREe/etZe+JVGML+uLBqx/DsVw4XvSRVWspu8SU7KUY+dVITgRWDA4\n0P1to/lST4q8Qh+vqtqP8485aQKBgQDR97b764Yyl+LyHpOhk6cqAZSwPWPVo7ps\nAnf8ZVmMF5AoRINmDnJbdYQLy9JTL68nDy5IFGCVpE3QgOSXkryOwCf6fu/1UJ0M\nc5OxGDmXUDlYKirkFt1AiUWHzWzl0nWIYVPI2N1Yns8FQ8CqZTwq1Ue+gPGS+Wzt\n8dhJM0WUnQKBgB6hMz+ujdMmsIFOdTxMMwpiEmdvwt8pQmA0S/WlVpdwZ88CIyEI\nb5yGyLmvpwVMnTU5ToSBw/o+D01p4NV2lTv757CD6QFyUGl632iAxhneNjEpN+87\n3xtLS7iBZeqeBeOltLsKjDiAm7B3TBtlVpoRqCsVWufQyX9oqS6JuzmRAoGAC/QR\nS8g9zJWPCv+oofM4+hA6+cmU7G20yD9fu1O9xFb3EwPLgzzhT8mh6dYBtFCrpQqd\nNOdMFFjVQUCFQwfMikfwPreJS6r6NeJCjzt00+NyUE2eQXv3vpvSBIgyYecYX9pC\nndWSzF/GI2OXDVxUD5Ay1Gqc1iQzClzRVmF/3ZUCgYAaxdbgeiONAwW2nZmXgNsR\nJhiSvzE521RTyMwIbLWdXsTjdj2yWmIvAkyJjOC/Gn6+1XshSeUX4lsoLnk1G6gl\nRb//UbGgqm3dgDOkvLwRMah/b34GJPQn22M1lUWU+3+x3GATFqrLeg48xcsz4hFb\nCsBCTY1/ULe5kkP+ZZIu9A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "pubsubjobs@serverless-playground-283219.iam.gserviceaccount.com",
+  "client_id": "117555278044804188670",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pubsubjobs%40serverless-playground-283219.iam.gserviceaccount.com"
+}

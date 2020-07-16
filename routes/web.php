@@ -16,3 +16,8 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/setjob', 'PubsubController@setJob');
+
+Route::get('/workjob', 'PubsubController@workJob');
+Route::get('/receiver', 'PubsubController@receiver');
