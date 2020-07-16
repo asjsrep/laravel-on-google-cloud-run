@@ -20,4 +20,4 @@ Route::get('/', function () {
 Route::get('/setjob', 'PubsubController@setJob');
 
 Route::get('/workjob', 'PubsubController@workJob');
-Route::get('/receiver', 'PubsubController@receiver');
+Route::post('/receiver', 'PubsubController@receiver');

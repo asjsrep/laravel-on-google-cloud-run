@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use GPBMetadata\Google\Api\Log;
 use Illuminate\Http\Request;
 use Google\Cloud\PubSub\PubSubClient;
 
@@ -29,6 +30,7 @@ class PubsubController extends Controller
 
     public function receiver() {
         dump(request()->all());
+        \Log::info(request()->all());
     }
 
     public function workJob() {
